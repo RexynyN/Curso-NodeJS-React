@@ -9,3 +9,5 @@ Criar um aplicativo nos moldes do tinder, porém com a diferença de ser voltado
 -Entrada do Código no GitHub  
 -BackEnd finalizado  
 
+*25/08*  
+-FrontEnd iniciado
